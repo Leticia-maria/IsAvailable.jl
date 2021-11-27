@@ -1,4 +1,4 @@
-# IsAvailable
+# IsAvailable.jl
 
 Note: Work in progress
 
