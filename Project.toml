@@ -1,7 +1,8 @@
 name = "IsAvailable"
 uuid = "5eed5368-8842-442a-8a27-4a504ab517a2"
 authors = ["Leticia-maria <leticiapequeno30@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
