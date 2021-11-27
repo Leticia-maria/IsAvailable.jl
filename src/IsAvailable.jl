@@ -15,11 +15,11 @@ end
 function app(names::Array{String, 1})
     for name in names
         if isavailable(name)
-            print(name*" is available. Do you wanna to install it? [yN] ")
+            print(name*" is available. Do you wanna to install it? [type y(yes) or n(no)] ")
             answer = readline()
-            if answer == "y"
+            if lowercase(answer) == "y"
                 Pkg.add(name)
-            elseif answer == "N"
+            elseif lowercase(answer) == "n"
                 print("Okay... Bye!")
             else
                 print("Oops! I did it again. Check out the name of the package... It may be wrong")
