@@ -1,4 +1,4 @@
-# IsAvailable.jl
+![alt text](PackageLogo.png)
 
 Note: Work in progress
 
