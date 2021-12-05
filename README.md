@@ -17,7 +17,7 @@ using Pkg
 Then, you add IsAvailable.jl:
 
 ``` julia
-Pkg.add("https://github.com/Leticia-maria/IsAvailable.jl")
+Pkg.clone("https://github.com/Leticia-maria/IsAvailable.jl")
 ```
 
 And, finally:
