@@ -1,6 +1,4 @@
-![alt text](PackageLogo.png)
-
-### Note: Work in progress
+![alt text](IsAvailable.jl.png)
 
 #### Build status: [![Build Status](https://github.com/Dale-Black/PracticePackage.jl/workflows/CI/badge.svg)](https://github.com/Leticia-maria/IsAvailable.jl/actions)
 
